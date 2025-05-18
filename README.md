@@ -79,3 +79,22 @@ components/
 ## Como usar este backend
 
 1. **Clonar el repositorio**
+   
+   ```
+   git clone https://github.com/santirod06/backend-reservas.git
+   cd backend-reservas
+   ```
+
+2. **Instalar las dependencias**
+
+   ```
+   cd components
+   npm install
+   ```
+
+3. **Correr el servidor**
+
+   ```
+   node server.js
+   ```
+   
