@@ -1,7 +1,7 @@
 # Reservacion de clases API
 
 Este proyecto es una **API RESTful** desarrollada con **Node.js**, **Express** y **MongoDB**, que permite gestionar usuarios, clases y sus respectivas reservas. 
-Está pensada como parte del backend de una aplicaciónde reservas para gimnasios, academias o centros educativos.
+Está pensada como parte del backend de una aplicación de reservas para gimnasios, academias o centros educativos.
 
 
 <br>
